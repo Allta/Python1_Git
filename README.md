@@ -2,7 +2,7 @@
 
 :see_no_evil: _**Il s'agit d'un travail autonomne.**_ :speak_no_evil:
 
-## **Rendu :** Un fichier ** md ** : B1_GIT_[NOM]\_[PRENOM].md
+## **Rendu :** Un fichier _md_: B1_GIT_[NOM]\_[PRENOM].md
 
 Vous avez un template de rendu dans le repo. 
 Pour chaque étape, documenter vos actions : 

@@ -33,12 +33,17 @@ Si vous avez des problèmes sur une command utilisez `git [command] --help`.
 
 ## Exercice 3 : Modification du Projet
 
-- Modifier un fichier déjà existant
-  - Ajouter le port 2222 pour l'host **Tyrell**
-  - Set le niveau de log à `INFO` pour tout les hosts finissant en **ell**
-- Commiter vos modifications
+- Modifier un fichier déjà existant : `helloworld.py`
+  - Rajouter une ligne qui print : "J'apprends Python !"
+  - Rajouter une variable `foo = bar` et printez la. 
+
 - Consulter le statut et les différences
-- Ajouter un fichier `diff.txt` et commencer à le tracker
-  - Expliquer rapidement la différence entre `git pull` et `git fetch`
+  - `git status` et `git diff` 
+- Ajouter un fichier `main.py` 
+  - Créer 2 variables `y = 5` et `z = 9`
+  - Additionner ces 2 variables et afficher leur somme.
+- Ajouter le fichier `main.py` dans le suivi de votre projet Git 
+  - `git add main.py` 
+- Commiter vos modifications
 - Pousser vos modifications
 

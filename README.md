@@ -35,7 +35,7 @@ Si vous avez des problèmes sur une command utilisez `git [command] --help`.
 
 - Modifier un fichier déjà existant : `helloworld.py`
   - Rajouter une ligne qui print : "J'apprends Python !"
-  - Rajouter une variable `foo = bar` et printez la. 
+  - Rajouter une variable `foo = "bar"` et printez la. 
 
 - Consulter le statut et les différences
   - `git status` et `git diff` 
